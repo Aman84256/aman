@@ -2,4 +2,5 @@
 
 My first GitHub project from Linux.
 
-This repository contains my Linux learning and practical exercises.
+This repository contains my Linux learning and practical exercises
+#2:39
